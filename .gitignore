@@ -1,4 +1,3 @@
 .idea/
-venv/
-ngrok/
-requirements/
+ngrok.exe/
+requirements.txt/
